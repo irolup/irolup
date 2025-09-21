@@ -10,7 +10,7 @@
 
 - Reach me on **charliesavard@gmail.com**
 
-- ⚡ Fun fact :  **Roquefort is the best cheese in the world**
+- Fun fact :  **Roquefort is the best cheese in the world**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
