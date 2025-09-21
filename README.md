@@ -1,14 +1,14 @@
 <h1 align="center">Yo, I'm Charlie</h1>
 <h3 align="center">A love c++</h3>
 
-- I’m currently developing **Baltrogue game engine (which can compile to the PS Vita)**
+- I’m currently developing : **Baltrogue game engine (which can compile to the PS Vita)**
 
 
-- I’m currently learning **Chinese**
+- I’m currently learning : **Chinese**
 
-- Ask me about **cheese**
+- Ask me about : **cheese**
 
-- Reach me on **charliesavard@gmail.com**
+- Reach me on : **charliesavard@gmail.com**
 
 - Fun fact :  **Roquefort is the best cheese in the world**
 
