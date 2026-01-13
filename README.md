@@ -4,8 +4,6 @@
 - I’m currently developing : **Baltrogue Game Engine (which can compile to the PS Vita)**
 
 
-- I’m currently learning : **Chinese**
-
 - Ask me about : **cheese**
 
 - Reach me on : **charliesavard@gmail.com**
