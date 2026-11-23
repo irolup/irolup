@@ -6,7 +6,6 @@
 
 - Ask me about : **cheese**
 
-- Reach me on : **charliesavard@gmail.com**
 
 - Fun fact :  **Roquefort is the best cheese in the world**
 
