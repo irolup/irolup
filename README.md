@@ -2,7 +2,7 @@
 
 <p align="center">
 Welcome, the
-<a href="https://github.com/irolup" target="_blank"><img src="https://moe-counter-2k5s.onrender.com/@irolup?theme=detention&darkmode=0&padding=4" alt="Visitor Counter"></a>
+<a href="https://github.com/irolup" target="_blank"><img src="https://moe-counter-2k5s.onrender.com/@irolup?theme=bully&darkmode=0&padding=4" alt="Visitor Counter"></a>
 th visitor!
 </p>
 
